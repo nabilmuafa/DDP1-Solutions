@@ -86,3 +86,4 @@ t.goto(0, t.ycor()-lebar_bata*(banyak_baris+2)) # ke posisi tengah bawah candi u
 t.pendown()
 t.write(f"Candi warna-warni dengan {int(jumlah_total_bata)} batu-bata", align="center", font=('Arial', '15', 'normal'))
 t.exitonclick() # akan exit program baru ketika di klik
+
