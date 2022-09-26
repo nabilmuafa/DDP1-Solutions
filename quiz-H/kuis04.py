@@ -1,4 +1,4 @@
-biner = input("String biner\t:")
+biner = input("String biner\t: ")
 
 pangkat = 1
 twos_comp = 0
