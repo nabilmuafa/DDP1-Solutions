@@ -3,7 +3,7 @@
 # dengan jumlah yang batu-bata per baris yang ditentukan
 # pengguna
 #
-# Dikerjakan oleh Muhammad Nabil Mu'afa - 2206024972
+# Solved by Muhammad Nabil Mu'afa - graded 100/100
 
 import turtle as t
 import random
