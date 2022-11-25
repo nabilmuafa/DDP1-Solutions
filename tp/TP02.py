@@ -1,7 +1,7 @@
 # Tugas Pemrograman 02 DDP 1 - H
 # Program akan melakukan grep seperti di Linux
 #
-# Solved by Muhammad Nabil Mu'afa - not yet graded
+# Solved by Muhammad Nabil Mu'afa - graded 95.10/100
 #
 # Known errors:
 # >> python TP02.py "olah*ra*a" mydir (forgot to handle more than 2 "*"s in no argument mode)
