@@ -5,6 +5,8 @@
 #
 # Dikerjakan oleh Muhammad Nabil Mu'afa (2206024972)
 # Kolaborator: Alden Luthfi A. (2206028932)
+# 
+# Graded 100/100
 
 import tkinter as tk
 import tkinter.ttk as ttk
