@@ -2,7 +2,7 @@
 # Program akan melakukan simulasi POS (Point of Sales) yang
 # bisa digunakan pembeli untuk memesan makanan dan minuman.
 #
-# Dikerjakan oleh Muhammad Nabil Mu'afa - 2206024972
+# Dikerjakan oleh Muhammad Nabil Mu'afa (2206024972) - graded 100/100
 
 def rupiah_formatting(price):
     """Fungsi untuk mengembalikan formatting harga dalam Rupiah"""
